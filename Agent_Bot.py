@@ -1,3 +1,5 @@
+#Create a .env file with your OpenAI API key
+#OpenAI API key is a paid service
 from typing import List, TypedDict
 from langchain_core.messages import HumanMessage
 from langchain_openai import ChatOpenAI
